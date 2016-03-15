@@ -1,3 +1,3 @@
 @echo off
-cd %homepath%\Documents\Github\
-test
+cd %homepath%\Documents\Github\%1
+
